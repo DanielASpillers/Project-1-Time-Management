@@ -29,4 +29,3 @@ We are tasked with creating a Microsoft Dynamics 365 CRM Canvas application in w
 * Adding a Clock-in/ Clock-out functionality for users to begin their day and start tallying up pay.
 * Using that Clock-in/ Clock-out functionality to generate pay using SharePoint calculated columns.
 * Resetting the Leave Balance yearly for static balances and accrued for earned leave by day.
-
